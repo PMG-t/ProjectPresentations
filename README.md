@@ -9,7 +9,7 @@ All, or almost all, of the projects carried out during the university course of 
 - [Europe air quality exploration](#europe-air-quality-exploration)
 - [Exploration of drugs' reviews](#exploration-of-drugs-reviews)
 - [Football teams performance indicators clustering](#football-teams-performance-indicators-clustering)
-- [Fruit classification and segmentation with transfer-learning nn approach](#fruit-classification-and-segmentation-with-transfer-learning-neural-network-approach)
+- [Fruit classification and segmentation with transfer-learning neural network approach](#fruit-classification-and-segmentation-with-transfer-learning-neural-network-approach)
 - [Fundus image classification and processing for diabetic retinopathy](#fundus-image-classification-and-processing-for-diabetic-retinopathy)
 - [Hourly energy consumption time series prediction](#hourly-energy-consumption-time-series-prediction)
 - [Survey on job and contractual opportunities for graduates using ISTAT data](#survey-on-job-and-contractual-opportunities-for-graduates-using-istat-data)
