@@ -101,7 +101,7 @@ All, or almost all, of the projects carried out during the university course of 
 
 <br> <!-- ------------------------------------------------------------------------------------------------------------ -->
 
-## Fruit classification and segmentation with transfer-learning neural-newtork approach
+## Fruit classification and segmentation with transfer-learning neural-network approach
 
 ![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Fruit_classification_and_segmentation_with_transfer-learning_nn_approach.png?raw=true)
 
