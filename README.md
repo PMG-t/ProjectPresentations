@@ -36,7 +36,7 @@ All, or almost all, of the projects carried out during the university course of 
 
 ![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Collecting_user_annotations_for_training_neural_network-based_object_detectors.png?raw=true)
 
-- **Course:** *Bachelor Degree in Computer Science (Milano-Bicocca University)*
+- **Course:** *Bachelor's degree in Computer Science (Milano-Bicocca University)*
 - **Tools and techniques:** *Python, Matlab, Flask, MongoDB, Android Studio*
 - **Description:** The following report describes the creation of a client-server system for requesting the detection of objects on images provided by the user. The primary goal was to create a system capable of improving or creating new detectors after the use of users, whose results must then be collected and stored. The technology of the YOLO neural network, used for object recognition, and its implementation will be analyzed. Project structure and development components will be described in the course of the report in parallel with the different problems each of them faces. Finally, the realization of an interface intended for the user, of which are described the different features that together lead to the achievement of the initial intent. Lastly, the results achieved are presented, in terms of time and computational resources, and also of accuracy degree and potential offered.
 - [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Collecting%20user%20annotations%20for%20training%20neural%20network-based%20object%20detectors.pdf)
@@ -70,7 +70,7 @@ All, or almost all, of the projects carried out during the university course of 
 
 ![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Europe_air_quality_exploration.png?raw=true)
 
-- **Course:** *Data science lab in environmental*
+- **Course:** *Big data in geographic information systems*
 - **Tools and techniques:** *Python, Geo-Pandas, Self-Organizing-Map*
 - **Description:** This project examines the levels of air pollutants (PM-10, NO, CO, SO₂) in Europe, using data collected from monitoring stations from 1998 to date. The analysis includes an assessment of overall trends and seasonal and weekly variations for each pollutant, providing a detailed view of temporal concentration patterns. To identify geographical areas with similar trends, a clustering technique based on Self Organizing Maps (SOM) is applied, which groups locations with common concentration trajectories of the substances under consideration. This approach allows to identify similarities based on environmental exposure dynamics and shared seasonal behaviors, highlighting regions with comparable risk profiles and pollution characteristics.
 - [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Europe%20air%20quality%20exploration.pdf)
@@ -139,7 +139,7 @@ All, or almost all, of the projects carried out during the university course of 
 
 ![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/ISTAT_opportunità_lavorative_e_contrattuali_laureati.png?raw=true)
 
-- **Course:** *Time series analysis*
+- **Course:** *Statistics*
 - **Tools and techniques:** *R Studio*
 - **Description:** This study uses ISTAT data to examine Italian students' choices of educational paths and their subsequent occupations. The analysis focuses on differences in university choices and job opportunities, exploring variations across different Italian regions and research fields. Through comparisons based on statistical tests, the project aims to identify trends in educational preferences and subsequent careers, providing insight into local dynamics and regional influences on students' career paths.
 - [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/ISTAT%20opportunit%C3%A0%20lavorative%20e%20contrattuali%20laureati.pdf)
@@ -185,7 +185,7 @@ All, or almost all, of the projects carried out during the university course of 
 
 ![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Unimib_energy_consumption_descriptive_and_predictive_analysis.png?raw=true)
 
-- **Course:** *Computer graphics*
+- **Course:** *Data science lab*
 - **Tools and techniques:** *R Studio, time series forcasting models, Self-Organizing-Maps*
 - **Worked on:** *Self-Organizing-Map to indetify different consumption behaviour patterns*
 - **Description:** This study analyzes a time series related to the energy consumption of a building at the University of Bicocca, applying an autoregressive model for the forecasting of future consumption. To understand consumption variations, a Self-Organizing Map (SOM) is used to observe the differences in consumption trends based on variables such as percentage consumption and the increasing or decreasing intensity of hourly consumption. The analysis also integrates external meteorological data, such as temperature and humidity, to evaluate their impact on energy consumption. This approach allows to distinguish different periods of the year in which consumption levels present similar or divergent patterns, highlighting critical moments and offering ideas for energy efficiency and sustainable management interventions.
