@@ -1,7 +1,7 @@
 # Data Science Projects
 All, or almost all, of the projects carried out during the university course of Data Science at Milano-Bicocca University.
 
-## Sections:
+## Contents list:
 - [Audio classification and image classification and matching](#audio-classification-and-image-classification-and-matching)
 - [Collecting user annotations for training neural network-based object detectors](#collecting-user-annotations-for-training-neural-network-based-object-detectors)
 - [Content relations between google news and twitter posts](#content-relations-between-google-news-and-twitter-posts)
@@ -9,6 +9,14 @@ All, or almost all, of the projects carried out during the university course of 
 - [Europe air quality exploration](#europe-air-quality-exploration)
 - [Exploration of drugs' reviews](#exploration-of-drugs-reviews)
 - [Football teams performance indicators clustering](#football-teams-performance-indicators-clustering)
+- [Fruit classification and segmentation with transfer-learning nn approach](#fruit-classification-and-segmentation-with-transfer-learning-nn-approach)
+- [Fundus image classification and processing for diabetic retinopathy](#fundus-image-classification-and-processing-for-diabetic-retinopathy)
+- [Hourly energy consumption time series prediction](#hourly-energy-consumption-time-series-prediction)
+- [ISTAT opportunità lavorative e contrattuali laureati](#istat-opportunità-lavorative-e-contrattuali-laureati)
+- [Multi-domain claim detection: a coreset and an external feature based approach for automated fact-checking](#multi-domain-claim-detection-a-coreset-and-an-external-feature-based-approach-for-automated-fact-checking)
+- [Turntable 3D modelling](#turntable-3d-modelling)
+- [Understanding semantic perception of cities in society](#understanding-semantic-perception-of-cities-in-society)
+- [Unimib energy consumption descriptive and predictive analysis](#unimib-energy-consumption-descriptive-and-predictive-analysis)
 
 <br> <!-- ------------------------------------------------------------------------------------------------------------ -->
 
@@ -91,6 +99,95 @@ All, or almost all, of the projects carried out during the university course of 
 - **Worked on:** *Retrieval, processing, db management and integration + final visualization for Netflix data*
 - **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
 - [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Football%20teams%20performance%20indicators%20clustering.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Fruit classification and segmentation with transfer-learning nn approach
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Fruit_classification_and_segmentation_with_transfer-learning_nn_approach.png?raw=true)
+
+- **Course:** *Advanced machine learning*
+- **Tools and techniques:** *Python, Tensorflow*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Fruit%20classification%20and%20segmentation%20with%20transfer-learning%20nn%20approach.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Fundus image classification and processing for diabetic retinopathy
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Fundus_image_classification_and_processing_for_diabetic_retinopathy.png?raw=true)
+
+- **Course:** *Data science lab in biosciences*
+- **Tools and techniques:** *Python, Tensorflow*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Fundus%20image%20classification%20and%20processing%20for%20diabetic%20retinopathy.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Hourly energy consumption time series prediction
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Hourly_energy_consumption_time_series_prediction.png?raw=true)
+
+- **Course:** *Time series analysis*
+- **Tools and techniques:** *Python, Tensorflow*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Hourly%20energy%20consumption%20time%20series%20prediction.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## ISTAT opportunità lavorative e contrattuali laureati
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/ISTAT_opportunità_lavorative_e_contrattuali_laureati.png?raw=true)
+
+- **Course:** *Time series analysis*
+- **Tools and techniques:** *Python, Tensorflow*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/ISTAT%20opportunit%C3%A0%20lavorative%20e%20contrattuali%20laureati.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Multi-domain claim detection: a coreset and an external feature based approach for automated fact-checking
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Multi-domain_claim_detection_-_a_coreset_and_an_external_feature_based_approach_for_automated_fact-checking.png?raw=true)
+
+- **Course:** *Master thesis work*
+- **Tools and techniques:** *Python, Tensorflow*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF (Slides)](https://github.com/PMG-t/ProjectPresentations/blob/master/Multi-domain%20claim%20detection%20-%20a%20coreset%20and%20an%20external%20feature%20based%20approach%20for%20automated%20fact-checking%20(Thesis%20slides).pdf)
+- [Open PDF (Thesis)](https://github.com/PMG-t/ProjectPresentations/blob/master/Multi-domain%20claim%20detection%20-%20a%20coreset%20and%20an%20external%20feature%20based%20approach%20for%20automated%20fact-checking%20(Thesis%20report).pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Turntable 3D modelling
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Turntable_3D_modelling.png?raw=true)
+
+- **Course:** *Computer graphics*
+- **Tools and techniques:** *Blender*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Turntable%203D%20modelling.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Understanding semantic perception of cities in society
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Understanding_semantic_perception_of_cities_in_society.png?raw=true)
+
+- **Course:** *Data semantics*
+- **Tools and techniques:** *Blender*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Understanding%20semantic%20perception%20of%20cities%20in%20society.pdf)
+
+<br> <!-- ------------------------------------------------------------------------------------------------------------ -->
+
+## Unimib energy consumption descriptive and predictive analysis
+
+![alt text](https://github.com/PMG-t/ProjectPresentations/blob/master/Images/Unimib_energy_consumption_descriptive_and_predictive_analysis.png?raw=true)
+
+- **Course:** *Computer graphics*
+- **Tools and techniques:** *Blender*
+- **Description:** Questo studio presenta un’analisi descrittiva volta a identificare le relazioni semantiche tra i contenuti pubblicati su Google News e i trending topics di Twitter. I dati sono stati raccolti tramite scraping dalle due piattaforme e sono stati impiegati tre diversi approcci di rappresentazione del testo: TF-IDF, Word2Vec e BERT. Le relazioni vengono estratte calcolando la similarità coseno, sia tra testi presi singolarmente, sia sfruttando l’aggregazione fornita dalle piattaforme. La visualizzazione dei collegamenti è stata realizzata mediante un diagramma di Sankey, si rende efficace per evidenziare le connessioni tra i contenuti. Infine, il lavoro discute i risultati ottenuti per i diversi eseperimenti, descrivendo le limitazioni degli approcci utilizzati e suggerendo possibili miglioramenti relativi. Questo studio rappresenta un tentativo di descrizione delle relazioni tra media tradizionali e social media ed offre un possibile punto di partenza verso successive analisi dei flussi informativi tra piattaforme diverse.
+- [Open PDF](https://github.com/PMG-t/ProjectPresentations/blob/master/Unimib%20energy%20consumption%20descriptive%20and%20predictive%20analysis.pdf)
 
 <br> <!-- ------------------------------------------------------------------------------------------------------------ -->
 
